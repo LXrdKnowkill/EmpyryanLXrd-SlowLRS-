@@ -43,9 +43,9 @@ Isso aqui é tudinho o que voce  precisa para instalar e executar o slowloris.py
 
 Se você quiser clonar usando git em vez de pip, voce pode fazer assim.
 
-* `git clone https://github.com/LXrdKnowkill/EmpyryanLXrd-SlowLRS.git`
-* `cd slowloris`
-* `python3 slowloris.py example.com`
+* `git clone https://github.com/LXrdKnowkill/EmpyryanLXrd-SlowLRS-.git`
+* `cd slowLRS`
+* `python3 slowLRS.py example.com`
 
 ### SOCKS5 Proxy Suporte 
 
