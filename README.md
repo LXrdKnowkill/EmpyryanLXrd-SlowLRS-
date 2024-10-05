@@ -1,7 +1,8 @@
-# EmpyryanLXrd-SlowLRS- é um Simples comando de Python 
+# EmpyryanLXrd-SlowLRS- é um simples DOS em Python 
 
-## Oq é isso? SlowLRS?
+## Oq é isso? SlowLRS/SlowLoris?
 SlowLRS é basicamente um HTTP de negação de serivço  que afeta servidores em varias escalas. ele tem uma funcionalidade desse jeito:
+
 
 <li>
   <b> 1): </b> Ele começa a fazer muitas requisição HTTP
